@@ -6,7 +6,7 @@ This repository contains all the configuration files and Packet Tracer (`.pkt`) 
 
 | Week | Topic Focus | Lab Name | Link to .pkt File |
 | :---: | :--- | :--- | :--- |
-| 1 | **Network Fundamentals** | Initial Device Config & Secure Access | [Link to Week1_Basic_Config.pkt] |
+| 1 | **Network Fundamentals** | Initial Device Config & Secure Access | [Basic_Router_Config.pkt] |
 | 2 | Network Access | VLANs & Inter-VLAN Routing (Router-on-a-Stick) | *[Coming Soon]* |
 | 3 | IP Connectivity | Static and Default Routing | *[Coming Soon]* |
 | 4 | IP Connectivity | Single-Area OSPFv2 Implementation | *[Coming Soon]* |
@@ -25,5 +25,5 @@ To use these lab files:
 Let's connect and discuss networking!
 
 * LinkedIn: www.linkedin.com/in/navink24
-  Email: navink0824@gmail.com
+ *  Email: navink0824@gmail.com
 
