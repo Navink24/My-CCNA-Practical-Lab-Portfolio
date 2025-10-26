@@ -6,7 +6,8 @@ This repository contains all the configuration files and Packet Tracer (`.pkt`) 
 
 | Week | Topic Focus | Lab Name | Link to .pkt File |
 | :---: | :--- | :--- | :--- |
-| 1 | **Network Fundamentals** | Initial Device Config & Secure Access | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/c992d189c8687aefbd6e9e05549922a4c4d55fd2/Basic_Router_Config.pkt |
+| 1 | **Network Fundamentals** | Lab 1: Building a Simple LAN & Device Basic Config | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/c992d189c8687aefbd6e9e05549922a4c4d55fd2/Basic_Router_Config.pkt |
+| 1 | **Network Fundamentals** | Lab 2: IPv4 Addressing, Subnetting, and Verification| *[Coming Soon]* |
 | 2 | Network Access | VLANs & Inter-VLAN Routing (Router-on-a-Stick) | *[Coming Soon]* |
 | 3 | IP Connectivity | Static and Default Routing | *[Coming Soon]* |
 | 4 | IP Connectivity | Single-Area OSPFv2 Implementation | *[Coming Soon]* |
