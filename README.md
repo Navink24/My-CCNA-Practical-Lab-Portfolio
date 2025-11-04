@@ -11,7 +11,7 @@ This repository contains all the configuration files and Packet Tracer (`.pkt`) 
 |1 | **Network Access** | **Lab 3:Basic Switch Config & Port Security** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/480b2033e44524f2695d87ad9b90810b4f5aca8d/Port_Security_Restrict.pkt |
 |1 | **Network Access** | **Lab 4:VLAN Configuration (L2 Isolation)** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/0ce27f8e2a86476df8fb4a4f9865604fd61ac3db/VLAN_Isolation.pkt |
 | 2 | **Network Access** | **VTP Synchronization (3-Switch)** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/aa34e62619f005481ac028c06190d1392276fe0d/VTP%20%26%20Centralized%20VLAN%20Management.pkt |
-| 2 | Network Access | VLANs & Inter-VLAN Routing (Router-on-a-Stick) | *[Coming Soon]* |
+| 2 | Network Access | VLANs & Inter-VLAN Routing (Router-on-a-Stick) | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/8e57d074971f6ce3dff75ffbda0b73855970e566/Advanced%20Inter-VLAN%20Routing.pkt |
 | 3 | IP Connectivity | Static and Default Routing | *[Coming Soon]* |
 | 4 | IP Connectivity | Single-Area OSPFv2 Implementation | *[Coming Soon]* |
 | 5 | IP Services | DHCP and Basic Standard ACLs | *[Coming Soon]* |
