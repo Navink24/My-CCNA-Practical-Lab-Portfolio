@@ -15,6 +15,7 @@ This repository contains all the configuration files and Packet Tracer (`.pkt`) 
 | 2 |**IP Connectivity** | **Lab 7:Static and Default Routing** |https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/0004387756c923ae6df3a7cf28cb2157d74f0fe3/Complex_Static_Routing.pkt |
 | 3 |**IP Connectivity** | **Lab 8:Single-Area OSPFv2 Implementation** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/acbf59596ddba15a3c432485cae91f1351ee7eff/Single-Area%20OSPF.pkt |
 | 4 |**IP Connectivity** | **Lab 9:Multi Area OSPF**| https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/4a43772f4c926e1cff72828bab7778ea1663d868/Multi%20Area%20OSPF.pkt |
+| 5 | **Access Control List"" | **Lab 10:Implemented Standard & Extended ACLs in a Realistic Corporate Network Lab** |  |
 | 6 | IP Services | Network Address Translation (NAT) and PAT | *[Coming Soon]* |
 | ... | *More topics will be added here!* | | |
 ## 🛠️ Requirements
