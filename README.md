@@ -17,7 +17,7 @@ This repository contains all the configuration files and Packet Tracer (`.pkt`) 
 | 4 |**IP Connectivity** | **Lab 9:Multi Area OSPF**| https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/4a43772f4c926e1cff72828bab7778ea1663d868/Multi%20Area%20OSPF.pkt |
 | 5 | **Access Control List** | **Lab 10:Implemented Standard & Extended ACLs in a Realistic Corporate Network Lab** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/773215663d062dead8c11b3438bc7f109e544661/Access%20Control%20List.pkt |
 | 6 | **IP Services** |**Lab 10: Static Network Address Translation (NAT)** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/a739c42899f5f51b9e0a407a2779961d01b3ff0c/STATIC%20NAT.pkt  |
-| 6 | **IP Services** |**Lab 11: Dynamic Network Address Translation(NAT)** |  |
+| 6 | **IP Services** |**Lab 11: Dynamic Network Address Translation(NAT)** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/c94a1b20d175fac1aa128412db5d4a9205778e3d/Dynamic%20NAT.pkt  |
 | ... | *More topics will be added here!* | | |
 ## 🛠️ Requirements
 
