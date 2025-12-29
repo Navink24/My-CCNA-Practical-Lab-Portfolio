@@ -18,7 +18,7 @@ This repository contains all the configuration files and Packet Tracer (`.pkt`) 
 | 5 | **Access Control List** | **Lab 10:Implemented Standard & Extended ACLs in a Realistic Corporate Network Lab** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/773215663d062dead8c11b3438bc7f109e544661/Access%20Control%20List.pkt |
 | 6 | **IP Services** |**Lab 10: Static Network Address Translation (NAT)** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/a739c42899f5f51b9e0a407a2779961d01b3ff0c/STATIC%20NAT.pkt  |
 | 6 | **IP Services** |**Lab 11: Dynamic Network Address Translation(NAT)** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/c94a1b20d175fac1aa128412db5d4a9205778e3d/Dynamic%20NAT.pkt  |
-|7| **IP Connectivity** | **Lab 12: Multi-Protocol Route Redistribution **| |
+|7| **IP Connectivity** | **Lab 12: Multi-Protocol Route Redistribution** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/b34ab10be5f97b0df5359fe859eb4764767ba466/Multi-Protocol%20Route%20Redistribution.pkt |
 | ... | *More topics will be added here!* | | |
 ## 🛠️ Requirements
 
