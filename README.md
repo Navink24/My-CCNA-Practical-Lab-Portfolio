@@ -20,6 +20,7 @@ This repository contains all the configuration files and Packet Tracer (`.pkt`) 
 | 6 | **IP Services** |**Lab 11: Dynamic Network Address Translation(NAT)** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/c94a1b20d175fac1aa128412db5d4a9205778e3d/Dynamic%20NAT.pkt  |
 |7| **IP Connectivity** | **Lab 12: Multi-Protocol Route Redistribution** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/b34ab10be5f97b0df5359fe859eb4764767ba466/Multi-Protocol%20Route%20Redistribution.pkt |
 |7| **IP Service** | **Lab 13: IPv6 Addressing** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/2cffe072e5600c20f2ebbb6a1610a68a4ca83a02/IPV6%20Addressing.pkt |
+| 8 | **IPv6 Connectivity** | **Lab 14:OSPFv3 (IPv6) Dynamic Routing** | https://github.com/Navink24/My-CCNA-Practical-Lab-Portfolio/blob/f8690769fd9c0b7c189420bc3c507e4aadcfc41c/OSPFv3%20(IPv6)%20Dynamic%20Routing.pkt |
 | ... | *More topics will be added here!* | | |
 ## 🛠️ Requirements
 
